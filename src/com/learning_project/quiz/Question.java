@@ -1,4 +1,4 @@
-package com.petrubirgoveanu.quiz;
+package com.learning_project.quiz;
 
 import java.util.List;
 

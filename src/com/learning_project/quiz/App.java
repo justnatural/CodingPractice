@@ -1,6 +1,5 @@
-package com.petrubirgoveanu.quiz;
+package com.learning_project.quiz;
 
-import javax.xml.crypto.Data;
 import java.util.Scanner;
 
 public class App {

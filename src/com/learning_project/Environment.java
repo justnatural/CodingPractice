@@ -1,4 +1,4 @@
-package com.petrubirgoveanu;
+package com.learning_project;
 
 import java.util.ArrayList;
 import java.util.Arrays;
